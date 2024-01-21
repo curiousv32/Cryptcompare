@@ -1,0 +1,2 @@
+# Cryptcompare
+compares bitcoin prices
