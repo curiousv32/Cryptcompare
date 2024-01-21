@@ -49,6 +49,6 @@ pnpm start
 
 - Learn the steps to use the backend API for fetching and displaying Bitcoin prices.
 
-## Source Code and AirCode.io
+## AirCode.io
 
 - AirCode.io: [AirCode Website](http://aircode.io/)
